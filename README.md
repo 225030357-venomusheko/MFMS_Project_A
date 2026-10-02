@@ -3,7 +3,7 @@
 # Group Members
 - Jordan Nakale 225123576
 - Genofefa Venomusheko 225030357
-- Asteria N Ausiku 224080553
+- Asteria N Ausiku 224080563
 - Izane Rocheta Barman 224027514
 - Linda Mutileni 223138266
 - Raphael Hatzkin 224091581
@@ -85,13 +85,13 @@ MFMS/
 
 | Member | Responsibility |
 
-| Student 1 | Employee Management |
-| Student 2 | Budget Management |
-| Student 3 | Supplier Management |
-| Student 4 | Asset Management |
-| Student 5 | Reports |
-| Student 6 | Functions, integration and validation |
-| Student 7 | Testing, documentation and Git coordination |
+| Izane Barman | Employee Management |
+| Genofefa Venomusheko | Budget Management |
+| Linda Mutileni | Supplier Management |
+| Raphael Hatzkin | Asset Management |
+| Maandag Hanseb | Reports |
+| Asteria N Ausiku | Functions, integration and validation |
+| Jordan Nakale | Testing, documentation and Git coordination |
 
 
 ## 7. GitHub Workflow
