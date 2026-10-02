@@ -1,5 +1,14 @@
 # PAP521S – Municipal Financial Management System (MFMS)
 
+# Group Members
+ Jordan Nakale 225123576
+ Genofefa Venomusheko 225030357
+ Asteria N Ausiku 224080553
+ Izane Rocheta Barman 224027514
+ Linda Mutileni 223138266
+ Raphael Hatzkin 224091581
+ Hanseb M 225041707
+
 ## Project A – Foundation System
 
 **Language:** ANSI C (C99)  
