@@ -72,7 +72,7 @@ MFMS/
 ## 4. Compilation
 
 
-## 5. How to Run
+## 5. How to Run MFMS
 
 1. Start the program.
 2. Select a module from the main menu.
@@ -81,7 +81,7 @@ MFMS/
 5. Use Reports to view calculated summaries.
 6. Select Exit from the main menu to close the program.
 
-## 6. Suggested Group Responsibilities
+## 6. Group Responsibilities
 
 | Member | Responsibility |
 
