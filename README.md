@@ -86,11 +86,17 @@ MFMS/
 | Member | Responsibility |
 
 | Izane Barman | Employee Management |
+
 | Genofefa Venomusheko | Budget Management |
+
 | Linda Mutileni | Supplier Management |
+
 | Raphael Hatzkin | Asset Management |
+
 | Maandag Hanseb | Reports |
+
 | Asteria N Ausiku | Functions, integration and validation |
+
 | Jordan Nakale | Testing, documentation and Git coordination |
 
 
